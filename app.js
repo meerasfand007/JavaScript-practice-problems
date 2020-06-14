@@ -1,4 +1,4 @@
-//Chap=1
+﻿//Chap=1
 //q1
 // alert('hello! welcome to my website')
 
@@ -27,7 +27,7 @@
 //var username;
 
 //q2
-// var fullName = "Zubia Naeem";
+// var fullName = "Asfandyar Meer";
 // var myName = fullName;
 // console.log(myName)
 // document.write(myName)
